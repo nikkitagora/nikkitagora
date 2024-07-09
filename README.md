@@ -38,6 +38,7 @@ I am currently undertaking a bootcamp course for a Level 3 NCFE certification in
   - Cryptography
   - Penetration Testing and Ethical Hacking
   - ISO 27001
+  - GDPR
 
 <!-- 
 **nikkitagora/nikkitagora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
