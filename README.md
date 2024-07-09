@@ -24,6 +24,7 @@ I am currently undertaking a bootcamp course for a Level 3 NCFE certification in
   - WireShark
   - Metasploit
   - OSINT
+  - Nmap
 
 
 🧠 **Knowledge of:**
