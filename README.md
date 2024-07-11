@@ -17,14 +17,17 @@ I am currently undertaking a bootcamp course for a Level 3 NCFE certification in
 💻 **Application Usage:**
   - Maltego
   - Kali Linux
-  - Immersive Labs
-  - TryHackMe
-  - Cisco
-  - CyberSkills
   - WireShark
   - Metasploit
   - OSINT
   - Nmap
+
+
+📖 **Learning Platforms Used:**
+  - Cisco
+  - TryHackMe
+  - Immersive Labs
+  - CyberSkills
 
 
 🧠 **Knowledge of:**
@@ -40,6 +43,8 @@ I am currently undertaking a bootcamp course for a Level 3 NCFE certification in
   - Penetration Testing and Ethical Hacking
   - ISO 27001
   - GDPR
+  - Mitre Att&ck
+  - Social Engineering
 
 <!-- 
 **nikkitagora/nikkitagora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
