@@ -1,6 +1,6 @@
 ## Hi there, I'm Nikkita 👾
 
-I am currently undertaking a bootcamp course for a Level 3 NCFE certification in Cyber Security Principles
+Currently undertaking a bootcamp course for a Level 3 NCFE certification in Cyber Security Principles
 
 📝 **Certifications:**
   - BCS accredited CISMP (2020)
