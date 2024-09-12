@@ -4,7 +4,7 @@ Currently undertaking a bootcamp course for a Level 3 NCFE certification in Cybe
 
 📝 **Certifications:**
   - BCS accredited CISMP (2020)
-  - Level 3 NCFE Certification in Cyber Security Principles (pending for 2024)
+  - Level 3 NCFE Certification in Cyber Security Principles (August 2024)
 
 
 💾 **Cyber Security Projects:**
