@@ -13,10 +13,7 @@
 
 
 💻 **Application Usage:**
-  - Maltego
-  - Kali Linux
   - WireShark
-  - Metasploit
   - OSINT
   - Nmap
 
@@ -26,6 +23,7 @@
   - TryHackMe
   - Immersive Labs
   - CyberSkills
+  - Over the wire
 
 
 🧠 **Knowledge of:**
